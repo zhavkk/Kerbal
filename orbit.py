@@ -17,7 +17,7 @@ ut = conn.add_stream(getattr, conn.space_center, 'ut')
 altitude = conn.add_stream(getattr, vessel.flight(), 'mean_altitude')
 apoapsis = conn.add_stream(getattr, vessel.orbit, 'apoapsis_altitude')
 periapsis = conn.add_stream(getattr, vessel.orbit, 'periapsis_altitude')
-stage_8_resources = vessel.resources_in_decouple_stage(stage=8, cumulative=False)
+stage_3_resources = vessel.resources_in_decouple_stage(stage=3, cumulative=False)
 srb_fuel = conn.add_stream(stage_8_resources.amount, 'SolidFuel')
 srb_sep = False
 
