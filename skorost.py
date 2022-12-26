@@ -17,8 +17,6 @@ while True:
     time.sleep(1)
 
 
-#or us this one instead
-
 import time
 import krpc
 
