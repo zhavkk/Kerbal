@@ -9,3 +9,4 @@
 ### Модель ракеты создана в конструкторе Kerbal Space Program
 ![image](https://user-images.githubusercontent.com/83081015/209557718-5e22947e-82a3-4e1b-9fb4-9307b222008b.png)
 #### Программы :
+программа для формул https://github.com/zhavkk/Kerbal/blob/main/formls.py
