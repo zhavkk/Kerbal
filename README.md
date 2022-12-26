@@ -12,4 +12,5 @@
 * программа <img src="https://github.com/zhavkk/Kerbal/blob/main/formls.py" alt="для формул">
 * программа <img src="https://github.com/zhavkk/Kerbal/blob/main/check.py" alt="для проверки готовности сервера">
 * программа <img src="https://github.com/zhavkk/Kerbal/blob/main/orbit.py" alt="для выхода на орбиту">
-
+#### Ссылка на ресерчдок:
+<img src="https://docs.google.com/document/d/1LsRoiqpiCP4YFnJS0DyI2kqNgyHtI84A/edit" alt="ресерчдок">
