@@ -1,8 +1,6 @@
 import math
 def Tsyn(t1,t2):
     return (t1*t2)/(abs(t2-t1))
-def Tsialkovskogo(m1,m2,I,m0,N):
-    return abs(sum(I for i in range(1,N))*math.log((m0+sum(m1 for i in range(1,N)))/(m0+m2-m1+sum(m1 for i in range(1,N)))))
 def VsemTyag(m1,m2,r):
     g=6.6743 *10**(-11)
     return (g*m1*m2)/(r**2)
