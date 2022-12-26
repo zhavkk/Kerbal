@@ -12,7 +12,7 @@
 программа
 <img src="https://github.com/zhavkk/Kerbal/blob/main/formls.py" alt="для формул">
 программа
-<img src="https://github.com/zhavkk/Kerbal/blob/main/check.py" alt="для проверки готовности сервера">
+<img src="https://github.com/zhavkk/Kerbal/blob/main/check.py" alt="для проверки готовности сервера\n">
 программа 
 <img src="https://github.com/zhavkk/Kerbal/blob/main/orbit.py" alt="для выхода на орбиту">
 
