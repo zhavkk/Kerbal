@@ -13,5 +13,5 @@
 * программа <img src="https://github.com/zhavkk/Kerbal/blob/main/pos.py" alt="для подсчета высоты , месторасположения корабля на планете">
 * программа <img src="https://github.com/zhavkk/Kerbal/blob/main/skorost.py" alt="для подсчета скорости корабля">
 #### Ссылка на ресерчдок и видео процесс полёта:
-<img src="https://docs.google.com/document/d/1LsRoiqpiCP4YFnJS0DyI2kqNgyHtI84A/edit" alt="ресерчдок">
-<img src="https://youtu.be/5mixTKo_Ks0 " alt="полёт">
+https://docs.google.com/document/d/1LsRoiqpiCP4YFnJS0DyI2kqNgyHtI84A/edit
+https://youtu.be/5mixTKo_Ks0 
