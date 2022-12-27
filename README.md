@@ -14,4 +14,5 @@
 * программа <img src="https://github.com/zhavkk/Kerbal/blob/main/skorost.py" alt="для подсчета скорости корабля">
 #### Ссылка на ресерчдок и видео процесс полёта:
 https://docs.google.com/document/d/1LsRoiqpiCP4YFnJS0DyI2kqNgyHtI84A/edit
+
 https://youtu.be/5mixTKo_Ks0 
